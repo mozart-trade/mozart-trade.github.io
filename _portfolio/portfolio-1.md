@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "COT REPORT GIV US A NICE SNAPSHOT OF CLUES OF WHAT BIG BANKS ARE DOING"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/COT.png'>"
 collection: portfolio
 ---
