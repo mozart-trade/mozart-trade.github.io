@@ -1,6 +1,6 @@
 ---
 title: "COT REPORT GIV US A NICE SNAPSHOT OF CLUES OF WHAT BIG BANKS ARE DOING"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/COT.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/COT.jpg'>"
 collection: portfolio
 ---
 
