@@ -3,7 +3,9 @@ title: "Shot trade win EURUSD 21/05/06"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'EP after a series of pushups from below the whole number, MMs whack PA prett fast below the lower 1/4 level
+to stop hunt weak hands and early longs, after realize the malicius move I enter long confirmed by the clues I've been 
+gattering thru the AS.'
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
