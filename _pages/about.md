@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "A Winning methodology consist of folloiwing the rules acordingly with the clues e gather from market makers"
 author_profile: true
 redirect_from: 
   - /about/
