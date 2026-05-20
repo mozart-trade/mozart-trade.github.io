@@ -24,10 +24,10 @@ repository               : "mozart-trade.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "William vincent"
-  pronouns         : # example: "him"  
+  name             : "William Vincent."
+  pronouns         : # example: "him."  
   bio              : "Volume analysis is crucial to get important clues from markets"
-  location         : "wourld"
+  location         : "world"
   employer         : "Independent Trader - Manager - Mentor"
   uri              : # URL
   email            : "lotus11fx@gmail.com" 
