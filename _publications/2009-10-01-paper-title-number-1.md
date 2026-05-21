@@ -1,4 +1,4 @@
----
+
 title: "Shot trade win EURUSD 21/05/06"
 collection: publications
 category: manuscripts
