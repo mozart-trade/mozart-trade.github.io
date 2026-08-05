@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "William Lima"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Lotus11 FX"
+  avatar : "/assets/images/CLINT.jpeg"
+  bio    : "If you waana know where the markets are going you come to the right place"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
