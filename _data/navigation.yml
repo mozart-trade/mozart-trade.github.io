@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Charts"
+    url: /Charts/
+  - title: "Studies"
+    url: /Studies/
+  - title: "Mentoring"
+    url: /Mentoring/
   - title: "About"
     url: /about/
