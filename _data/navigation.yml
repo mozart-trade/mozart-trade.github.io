@@ -1,9 +1,9 @@
 main:
-  - title: "Charts"
-    url: /Charts/
-  - title: "Studies"
-    url: /Studies/
-  - title: "Mentoring"
-    url: /Mentoring/
+  - title: "medels"
+    url: /medels/
+  - title: "Categories"
+    url: /categories/
+  - title: "tags"
+    url: /tags/
   - title: "About"
     url: /about/
