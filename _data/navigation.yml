@@ -1,8 +1,8 @@
 main:
-  - title: "medels"
-    url: /medels/
-  - title: "Categories"
-    url: /categories/
+  - title: "Management"
+    url: /Management/
+  - title: "Trading"
+    url: /Trading/
   - title: "tags"
     url: /tags/
   - title: "About"
