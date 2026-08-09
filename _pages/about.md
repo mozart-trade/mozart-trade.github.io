@@ -1,9 +1,10 @@
 ---
-permalink: /mentorship/
-title: "mentorship"
+permalink: /trade/
+title: "trade"
 ---
 
-- Presentation 1. Autor 2, autor 3. Trade the markets with consistency
-- Presentation 2.
-- Presentation 3.
+- trade GBPUSD 1. Autor 2, autor 3. Trade the markets with consistency
+- trade AUDUSD LONG TRADE WIN.
+
+
 
