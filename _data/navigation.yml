@@ -1,9 +1,6 @@
 main:
-  - title: "Management"
-    url: /Management/
-  - title: "Results"
-    url: /Results/
+
+  
   - title: "tags"
     url: /tags/
-  - title: "Trade"
-    url: /Trade/
+
